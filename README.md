@@ -61,3 +61,25 @@ Create `EXPLANATION.md` (max 250 words) containing:
 ## Submission
 
 - Submit a public GitHub repository URL containing your solution to the Google form link provided.
+
+
+## Running Tests Locally
+
+1. Install dependencies
+
+   `npm install`
+
+2. Run tests
+
+   `npm test`
+
+
+## Running Tests with Docker
+
+```Build the image
+
+docker build -t js-ts-assignment .
+
+Run the tests
+
+docker run js-ts-assignment```
