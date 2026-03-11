@@ -83,4 +83,6 @@ docker build -t ai-assignment .
 
 - Run the tests
 
-docker run ai-assignment```
+docker run ai-assignment
+
+```
