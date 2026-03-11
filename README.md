@@ -76,13 +76,11 @@ Create `EXPLANATION.md` (max 250 words) containing:
 
 ## Running Tests with Docker
 
-```
 - Build the image
 
-docker build -t ai-assignment .
+`docker build -t ai-assignment .`
 
 - Run the tests
 
-docker run ai-assignment
+`docker run ai-assignment`
 
-```
